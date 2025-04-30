@@ -16,7 +16,7 @@ function App() {
           backgroundPosition: "center",
         }}
       >
-        <h1 style={{ fontSize: "3rem", marginBottom: "1rem" }}>Te ayudamos a viajar, estudiar y vivir en CDMX</h1>
+        <h1 style={{ fontSize: "3rem", marginBottom: "1rem" }}>Te ayudamos a viajar, estudiar y vivir en la Ciudad de México</h1>
         <p style={{ fontSize: "1.2rem", marginBottom: "2rem" }}>
           Encuentra universidades, hospedaje, seguros y todo lo que necesitas para disfrutar tu experiencia de intercambio en la ciudad.
         </p>
