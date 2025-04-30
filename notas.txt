@@ -1,0 +1,11 @@
+.: Estas son algunas notas y comandos de ayuda que puede servir más adelante :.
+
+
+git add .
+git commit -m "..."
+npm run build
+npm run deploy
+
+.-------------
+
+npm create vite@latest tlal-m --template reacte
