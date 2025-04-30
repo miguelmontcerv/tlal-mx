@@ -11,7 +11,7 @@ function App() {
           padding: "4rem 2rem",
           backgroundColor: "#000000",
           color: "#fff",
-          backgroundImage: "url('/images/hero-banner-2.jpg')", // Imagen de fondo para el Hero
+          backgroundImage: "url('./images/hero-banner-2.jpg')", // Imagen de fondo para el Hero
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
@@ -58,7 +58,7 @@ function App() {
                 borderRadius: "10px",
                 boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
                 textAlign: "center",
-                backgroundImage: `url('/images/service-${index + 1}.jpg')`, // Imagen para cada servicio
+                backgroundImage: `url('./images/service-${index + 1}.jpg')`, // Imagen para cada servicio
                 backgroundSize: "cover",
                 backgroundPosition: "center",
                 color: "#fff",
@@ -105,9 +105,9 @@ function App() {
       <section
         style={{
           padding: "4rem 2rem",
-          backgroundColor: "#000000",
+          backgroundColor: "#f9fff9",
           color: "#fff",
-          backgroundImage: "url('/images/testimonials-banner.jpg')", // Imagen de fondo para testimonios
+          //backgroundImage: "url('./images/testimonials-banner.jpg')", // Imagen de fondo para testimonios
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
